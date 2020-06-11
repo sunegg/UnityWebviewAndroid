@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-it/values-it.xml",
+            "map": [
+                {
+                    "source": "/Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,127,184,247,362,417,475,529,583",
+                        "endColumns": "71,56,62,114,54,57,53,53,48",
+                        "endOffsets": "122,179,242,357,412,470,524,578,627"
+                    }
+                }
+            ]
+        }
+    ]
+}

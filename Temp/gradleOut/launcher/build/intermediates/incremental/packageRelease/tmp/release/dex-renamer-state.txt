@@ -1,0 +1,4 @@
+#Thu Jun 11 15:24:36 MYT 2020
+base.0=/Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

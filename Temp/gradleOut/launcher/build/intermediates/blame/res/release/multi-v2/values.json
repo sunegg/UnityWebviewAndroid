@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,179,242,339,391,436,482,532",
+                        "endColumns": "69,53,62,96,51,44,45,49,45",
+                        "endOffsets": "120,174,237,334,386,431,477,527,573"
+                    }
+                },
+                {
+                    "source": "/Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "13,15,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "690,790,928",
+                        "endLines": "14,17,21",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "785,923,1150"
+                    }
+                },
+                {
+                    "source": "/Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "2,-1",
+                        "startOffsets": "53,-1",
+                        "endColumns": "41,-1",
+                        "endOffsets": "92,-1"
+                    },
+                    "to": {
+                        "startLines": "11,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "578,622",
+                        "endColumns": "43,67",
+                        "endOffsets": "617,685"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+com.panguhy.sydh
+mipmap app_icon
+mipmap app_icon_round
+string AUTH_REQUIRE_TITLE
+string CHOOSE_IMAGE
+string DOWNLOAD_STARTED
+string EXTERNAL_WRITE_PERMISSION_LACK
+string INVALID_URL
+string LOADING
+string PASSWORD
+string SAVE_IMAGE
+string USERNAME
+string app_name
+string game_view_content_description
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

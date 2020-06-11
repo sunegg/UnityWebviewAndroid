@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-73:12
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-96
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:97-143
+	android:versionCode
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:144-184
+supports-screens
+ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-17:40
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-17:40
+	android:largeScreens
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-71:19
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:33:5-71:19
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:11:5-13:19
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:11:5-13:19
+	android:label
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+	android:theme
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:36:9-50
+	android:usesCleartextTraffic
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-44
+uses-sdk
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:5:5-7:41
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:5-67
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:9:5-67
+MERGED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:22-76
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:19-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:38:9-57:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:13-194
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:13-53:40
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:53:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:52:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:54:13-56:40
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:9-61:33
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:9-64:36
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:9-67:50
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:67:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:68:9-70:68
+	android:value
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:70:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/sunegg/Desktop/Workshop/Shell/cq-android/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:69:13-42
+activity#com.onevcat.uniwebview.UniWebViewFileChooserActivity
+ADDED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:12:9-89
+	android:name
+		ADDED from [:UniWebView:] /Users/sunegg/.gradle/caches/transforms-2/files-2.1/118d1cdb144fe311fa7e8c7acf11d61a/AndroidManifest.xml:12:19-86
