@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F053A388-9ECC-7AC9-57CC-BC68BE479BEF}</ProjectGuid>
+    <ProjectGuid>{D5C88774-17D5-EC98-4CF0-D584C4DADD62}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,51 +60,38 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AndroidUtil.cs" />
      <Compile Include="Assets\Scripts\WebView.cs" />
-     <Compile Include="Assets\UniWebView\Interface\UniWebViewAndroid.cs" />
-     <Compile Include="Assets\UniWebView\Interface\UniWebViewAndroidStaticListener.cs" />
-     <Compile Include="Assets\UniWebView\Interface\UniWebViewCocoa.cs" />
-     <Compile Include="Assets\UniWebView\Interface\UniWebViewPlaceholder.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebView.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewContentInsetAdjustmentBehavior.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewHelper.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewLogger.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewMessage.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewNativeListener.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewToolbarPosition.cs" />
-     <Compile Include="Assets\UniWebView\Script\UniWebViewTransitionEdge.cs" />
-     <None Include="Assets\UniWebView\README.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/sunegg/Desktop/Workshop/Shell/cq-android/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/sunegg/Desktop/Workshop/Shell/androidwebview/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.0f3/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -637,6 +624,12 @@
  <Reference Include="Boo.Lang">
  <HintPath>/Applications/Unity/Hub/Editor/2019.3.0f3/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
  </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{519E02CA-C1DE-24A3-C4AE-8D2FFE2E7860}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

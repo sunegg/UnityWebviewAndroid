@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="UnityWebViewPostprocessBuild.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AndroidUtil.cs" t="Include" />
+          <e p="WebView.cs" t="Include" />
+        </e>
+        <e p="UniWebView" t="Include">
+          <e p="Interface" t="Include">
+            <e p="UniWebViewAndroid.cs" t="Include" />
+            <e p="UniWebViewAndroidStaticListener.cs" t="Include" />
+            <e p="UniWebViewCocoa.cs" t="Include" />
+            <e p="UniWebViewPlaceholder.cs" t="Include" />
+          </e>
+          <e p="README.txt" t="Include" />
+          <e p="Script" t="Include">
+            <e p="UniWebView.cs" t="Include" />
+            <e p="UniWebViewContentInsetAdjustmentBehavior.cs" t="Include" />
+            <e p="UniWebViewHelper.cs" t="Include" />
+            <e p="UniWebViewLogger.cs" t="Include" />
+            <e p="UniWebViewMessage.cs" t="Include" />
+            <e p="UniWebViewNativeListener.cs" t="Include" />
+            <e p="UniWebViewToolbarPosition.cs" t="Include" />
+            <e p="UniWebViewTransitionEdge.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="cq-android.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_cq-android.-1156562891.00" t="ExcludeRecursive" />
+  </component>
+</project>
