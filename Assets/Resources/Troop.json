@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Name": "黄盖",
+    "Attack": 0,
+    "Defence": 1,
+    "Speed": 0,
+    "Dominance": 0,
+    "FoodCost": 1,
+    "Siege": 25
+  },
+  {
+    "Id": 2,
+    "Name": "蔡文姬",
+    "Attack": 2,
+    "Defence": 0,
+    "Speed": 2,
+    "Dominance": 0,
+    "FoodCost": 1.2,
+    "Siege": 25
+  },
+  {
+    "Id": 3,
+    "Name": "典韦",
+    "Attack": 0,
+    "Defence": 4,
+    "Speed": 0,
+    "Dominance": 0,
+    "FoodCost": 1.2,
+    "Siege": 25
+  },
+  {
+    "Id": 4,
+    "Name": "张合",
+    "Attack": 2,
+    "Defence": 2,
+    "Speed": 2,
+    "Dominance": 0,
+    "FoodCost": 1.4,
+    "Siege": 50
+  },
+  {
+    "Id": 5,
+    "Name": "黄忠",
+    "Attack": 3,
+    "Defence": 0,
+    "Speed": 2,
+    "Dominance": 0,
+    "FoodCost": 1.4,
+    "Siege": 50
+  },
+  {
+    "Id": 6,
+    "Name": "诸葛亮",
+    "Attack": 5,
+    "Defence": 0,
+    "Speed": 5,
+    "Dominance": 0,
+    "FoodCost": 1.8,
+    "Siege": 25
+  },
+  {
+    "Id": 7,
+    "Name": "孙策",
+    "Attack": 9,
+    "Defence": 0,
+    "Speed": 0,
+    "Dominance": 0,
+    "FoodCost": 1.8,
+    "Siege": 50
+  },
+  {
+    "Id": 8,
+    "Name": "曹操",
+    "Attack": 0,
+    "Defence": 0,
+    "Speed": 2,
+    "Dominance": 0,
+    "FoodCost": 0.5,
+    "Siege": 25
+  },
+  {
+    "Id": 9,
+    "Name": "刘备",
+    "Attack": 2,
+    "Defence": 6,
+    "Speed": 0,
+    "Dominance": 0,
+    "FoodCost": 1.8,
+    "Siege": 80
+  },
+  {
+    "Id": 10,
+    "Name": "张飞",
+    "Attack": 6,
+    "Defence": 6,
+    "Speed": 6,
+    "Dominance": 0,
+    "FoodCost": 2,
+    "Siege": 65
+  },
+  {
+    "Id": 11,
+    "Name": "关羽",
+    "Attack": 6,
+    "Defence": 8,
+    "Speed": 2,
+    "Dominance": 0,
+    "FoodCost": 2,
+    "Siege": 50
+  },
+  {
+    "Id": 12,
+    "Name": "吕布",
+    "Attack": 9,
+    "Defence": 9,
+    "Speed": 9,
+    "Dominance": 0,
+    "FoodCost": 3,
+    "Siege": 100
+  }
+]

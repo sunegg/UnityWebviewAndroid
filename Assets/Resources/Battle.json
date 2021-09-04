@@ -1,0 +1,8 @@
+[
+  {
+    "BattleId": 1,
+    "MaxTeammate": 3,
+    "MaxEnemy": 3,
+    "MaxRound": 8
+  }
+]

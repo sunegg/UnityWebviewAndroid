@@ -1,0 +1,18 @@
+[
+  {
+    "PlayerId": 1,
+    "Money": 9999,
+    "Attack": 1,
+    "Defence": 1,
+    "Speed": 1,
+    "Dominance": 1,
+    "MaxAttack": 9,
+    "MaxDefence": 9,
+    "MaxSpeed": 9,
+    "MaxDominance": 9,
+    "MaxInventorySlot": 65,
+    "MaxTeammateSlot": 70,
+    "Population": 800,
+    "Food": 1200
+  }
+]

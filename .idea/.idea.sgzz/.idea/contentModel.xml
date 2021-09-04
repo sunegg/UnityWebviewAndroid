@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Game" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Audio" t="Include">
+              <e p="AudioManager.cs" t="Include" />
+            </e>
+            <e p="Battle" t="Include">
+              <e p="BattleManager.cs" t="Include" />
+              <e p="BattleModel.cs" t="Include" />
+              <e p="BattleView.cs" t="Include" />
+              <e p="EnemyData.cs" t="Include" />
+              <e p="PlayerData.cs" t="Include" />
+              <e p="RoleData.cs" t="Include" />
+              <e p="SkillData.cs" t="Include" />
+              <e p="UIStartBattle.cs" t="Include" />
+            </e>
+            <e p="Data" t="Include">
+              <e p="BaseModel.cs" t="Include" />
+              <e p="ChanceModel.cs" t="Include" />
+              <e p="DataManager.cs" t="Include" />
+              <e p="GameConfig.cs" t="Include" />
+              <e p="GameData.cs" t="Include" />
+              <e p="GameKey.cs" t="Include" />
+              <e p="InventoryModel.cs" t="Include" />
+              <e p="PlayerModel.cs" t="Include" />
+              <e p="RankType.cs" t="Include" />
+              <e p="StatusType.cs" t="Include" />
+              <e p="TroopConfig.cs" t="Include" />
+              <e p="UnitModel.cs" t="Include" />
+            </e>
+            <e p="HAHAHA" t="Include">
+              <e p="Core" t="Include">
+                <e p="AppConfig.cs" t="Include" />
+                <e p="EventManager.cs" t="Include" />
+                <e p="GameBehaviour.cs" t="Include" />
+                <e p="GameManager.cs" t="Include" />
+                <e p="Singleton.cs" t="Include" />
+                <e p="USingleton.cs" t="Include" />
+              </e>
+              <e p="Data" t="Include">
+                <e p="DataType.cs" t="Include" />
+              </e>
+              <e p="Extension" t="Include">
+                <e p="ArrayExtension.cs" t="Include" />
+                <e p="TransformExtension.cs" t="Include" />
+              </e>
+              <e p="Message" t="Include">
+                <e p="MessageAggregator.cs" t="Include" />
+                <e p="MessageArgs.cs" t="Include" />
+                <e p="MessageExtension.cs" t="Include" />
+                <e p="MessageHandler.cs" t="Include" />
+              </e>
+              <e p="Others" t="Include">
+                <e p="Key.cs" t="Include" />
+              </e>
+              <e p="Util" t="Include">
+                <e p="RandomHelper.cs" t="Include" />
+                <e p="WebUtil.cs" t="Include" />
+              </e>
+              <e p="View" t="Include">
+                <e p="GameEventButton.cs" t="Include" />
+                <e p="GameListView.cs" t="Include" />
+                <e p="GameText.cs" t="Include" />
+                <e p="GameToast.cs" t="Include" />
+                <e p="IViewModel.cs" t="Include" />
+                <e p="UIFilledImage.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Inventory" t="Include">
+              <e p="InventoryItem.cs" t="Include" />
+              <e p="InventoryListView.cs" t="Include" />
+              <e p="InventoryManager.cs" t="Include" />
+              <e p="InventoryType.cs" t="Include" />
+              <e p="UIInventoryButton.cs" t="Include" />
+            </e>
+            <e p="JsonHelper.cs" t="Include" />
+            <e p="League" t="Include">
+              <e p="LeagueType.cs" t="Include" />
+            </e>
+            <e p="Manager" t="Include">
+              <e p="GameManager.cs" t="Include" />
+              <e p="ShopManager.cs" t="Include" />
+            </e>
+            <e p="Map" t="Include">
+              <e p="MapDetailView.cs" t="Include" />
+              <e p="MapManager.cs" t="Include" />
+              <e p="MapModel.cs" t="Include" />
+              <e p="MapTileView.cs" t="Include" />
+            </e>
+            <e p="Market" t="Include">
+              <e p="MarketModel.cs" t="Include" />
+              <e p="MarketView.cs" t="Include" />
+              <e p="MarketViewModel.cs" t="Include" />
+              <e p="UILongPress.cs" t="Include" />
+            </e>
+            <e p="Prepare" t="Include">
+              <e p="PrepareManager.cs" t="Include" />
+              <e p="PrepareView.cs" t="Include" />
+              <e p="UIShowTeammate.cs" t="Include" />
+            </e>
+            <e p="PurchaseManager.cs" t="Include" />
+            <e p="Purchaser.cs" t="Include" />
+            <e p="Teammate" t="Include">
+              <e p="TeammateListView.cs" t="Include" />
+              <e p="TeammateManager.cs" t="Include" />
+              <e p="TeammateModel.cs" t="Include" />
+              <e p="TeammatePrefab.cs" t="Include" />
+            </e>
+            <e p="Util" t="Include">
+              <e p="GameHelper.cs" t="Include" />
+              <e p="SaveUtility.cs" t="Include" />
+            </e>
+            <e p="View" t="Include">
+              <e p="DialogView.cs" t="Include" />
+              <e p="ResourcesView.cs" t="Include" />
+              <e p="TroopView.cs" t="Include" />
+              <e p="UIButton.cs" t="Include" />
+              <e p="UICloneText.cs" t="Include" />
+              <e p="UIImageBar.cs" t="Include" />
+              <e p="UIInventoryText.cs" t="Include" />
+              <e p="UINextRound.cs" t="Include" />
+              <e p="UISelectTroop.cs" t="Include" />
+              <e p="UISwitch.cs" t="Include" />
+              <e p="UIToggle.cs" t="Include" />
+              <e p="UIToggleButton.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="UnityWebViewPostprocessBuild.cs" t="Include" />
+          </e>
+          <e p="WebViewObject.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AndroidUtil.cs" t="Include" />
+          <e p="BDController.cs" t="Include" />
+          <e p="WebView.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sgzz.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_sgzz.-1993992721.00" t="ExcludeRecursive" />
+  </component>
+</project>

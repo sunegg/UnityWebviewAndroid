@@ -1,0 +1,134 @@
+[
+  {
+    "Id": 1,
+    "Rank": "D",
+    "Name": "盗贼",
+    "Min": 1,
+    "Max": 2,
+    "AbilityTypeId": 0,
+    "AbilityRank": 0,
+    "RoleID": "1,2",
+    "Level": 1
+  },
+  {
+    "Id": 2,
+    "Rank": "D",
+    "Name": "山贼",
+    "Min": 1,
+    "Max": 2,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "D",
+    "RoleID": "1,2,3",
+    "Level": 1
+  },
+  {
+    "Id": 3,
+    "Rank": "D",
+    "Name": "守卫",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "D",
+    "RoleID": "1,2,3,4",
+    "Level": 2
+  },
+  {
+    "Id": 4,
+    "Rank": "D",
+    "Name": "穿越者",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "D",
+    "RoleID": 8,
+    "Level": 2
+  },
+  {
+    "Id": 5,
+    "Rank": "C",
+    "Name": "保镖",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "D,C",
+    "RoleID": "2,3,4",
+    "Level": 3
+  },
+  {
+    "Id": 6,
+    "Rank": "C",
+    "Name": "杀手",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "D,C",
+    "RoleID": 9,
+    "Level": 3
+  },
+  {
+    "Id": 7,
+    "Rank": "B",
+    "Name": "魂殿",
+    "Min": 5,
+    "Max": 6,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "C,B",
+    "RoleID": "3,4,5,6",
+    "Level": 4
+  },
+  {
+    "Id": 8,
+    "Rank": "A",
+    "Name": "精锐军",
+    "Min": 6,
+    "Max": 7,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "B",
+    "RoleID": "4,5,6",
+    "Level": 5
+  },
+  {
+    "Id": 9,
+    "Rank": "S",
+    "Name": "黄巾军",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": "1,2,3,4,5,6,7,8",
+    "AbilityRank": "B,A",
+    "RoleID": "4,5,6",
+    "Level": 6
+  },
+  {
+    "Id": 10,
+    "Rank": "S",
+    "Name": "土匪军",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRank": "A",
+    "RoleID": 10,
+    "Level": 6
+  },
+  {
+    "Id": 11,
+    "Rank": "S",
+    "Name": "道士",
+    "Min": 9,
+    "Max": 9,
+    "AbilityTypeId": 8,
+    "AbilityRank": "A",
+    "RoleID": 12,
+    "Level": 6
+  },
+  {
+    "Id": 12,
+    "Rank": "S",
+    "Name": "宗师",
+    "Min": 9,
+    "Max": 9,
+    "AbilityTypeId": 6,
+    "AbilityRank": "A",
+    "RoleID": 12,
+    "Level": 6
+  }
+]

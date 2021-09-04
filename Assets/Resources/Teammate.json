@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "RankString": "D",
+    "Name": "许褚",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": 0,
+    "AbilityRankString": 0
+  },
+  {
+    "Id": 2,
+    "RankString": "D",
+    "Name": "周泰",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": 0,
+    "AbilityRankString": 0
+  },
+  {
+    "Id": 3,
+    "RankString": "D",
+    "Name": "袁尚",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": 0,
+    "AbilityRankString": 0
+  },
+  {
+    "Id": 4,
+    "RankString": "D",
+    "Name": "公孙瓒",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": 0,
+    "AbilityRankString": 0
+  },
+  {
+    "Id": 5,
+    "RankString": "D",
+    "Name": "魏延",
+    "Min": 3,
+    "Max": 4,
+    "AbilityTypeId": 8,
+    "AbilityRankString": "D"
+  },
+  {
+    "Id": 6,
+    "RankString": "C",
+    "Name": "马岱",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "D,C"
+  },
+  {
+    "Id": 7,
+    "RankString": "C",
+    "Name": "张任",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "D,C"
+  },
+  {
+    "Id": 8,
+    "RankString": "C",
+    "Name": "曹洪",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "D,C"
+  },
+  {
+    "Id": 9,
+    "RankString": "C",
+    "Name": "关平",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "D,C"
+  },
+  {
+    "Id": 10,
+    "RankString": "C",
+    "Name": "曹仁",
+    "Min": 4,
+    "Max": 5,
+    "AbilityTypeId": 8,
+    "AbilityRankString": "C"
+  },
+  {
+    "Id": 11,
+    "RankString": "B",
+    "Name": "张颌",
+    "Min": 5,
+    "Max": 7,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "C,B"
+  },
+  {
+    "Id": 12,
+    "RankString": "B",
+    "Name": "华雄",
+    "Min": 5,
+    "Max": 7,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "C,B"
+  },
+  {
+    "Id": 13,
+    "RankString": "B",
+    "Name": "夏侯惇",
+    "Min": 5,
+    "Max": 7,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "C,B"
+  },
+  {
+    "Id": 14,
+    "RankString": "B",
+    "Name": "吕蒙",
+    "Min": 5,
+    "Max": 7,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "C,B"
+  },
+  {
+    "Id": 15,
+    "RankString": "B",
+    "Name": "甘宁",
+    "Min": 6,
+    "Max": 7,
+    "AbilityTypeId": 8,
+    "AbilityRankString": "B"
+  },
+  {
+    "Id": 16,
+    "RankString": "A",
+    "Name": "徐晃",
+    "Min": 7,
+    "Max": 8,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "B,A"
+  },
+  {
+    "Id": 17,
+    "RankString": "A",
+    "Name": "张辽",
+    "Min": 7,
+    "Max": 8,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "B,A"
+  },
+  {
+    "Id": 18,
+    "RankString": "A",
+    "Name": "姜维",
+    "Min": 7,
+    "Max": 8,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "B,A"
+  },
+  {
+    "Id": 19,
+    "RankString": "A",
+    "Name": "文丑",
+    "Min": 7,
+    "Max": 8,
+    "AbilityTypeId": "1,2,3,4,5,6,7",
+    "AbilityRankString": "B,A"
+  },
+  {
+    "Id": 20,
+    "RankString": "A",
+    "Name": "颜良",
+    "Min": 7,
+    "Max": 8,
+    "AbilityTypeId": 8,
+    "AbilityRankString": "A"
+  },
+  {
+    "Id": 21,
+    "RankString": "S",
+    "Name": "太史慈",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": 3,
+    "AbilityRankString": "S"
+  },
+  {
+    "Id": 22,
+    "RankString": "S",
+    "Name": "马超",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": 5,
+    "AbilityRankString": "S"
+  },
+  {
+    "Id": 23,
+    "RankString": "S",
+    "Name": "典韦",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": 2,
+    "AbilityRankString": "S"
+  },
+  {
+    "Id": 24,
+    "RankString": "S",
+    "Name": "赵云",
+    "Min": 8,
+    "Max": 9,
+    "AbilityTypeId": 8,
+    "AbilityRankString": "S"
+  }
+]

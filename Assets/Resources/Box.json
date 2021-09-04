@@ -1,0 +1,22 @@
+[
+  {
+    "BoxId": 1,
+    "Name": "酒馆",
+    "ChanceS": 1,
+    "ChanceA": 2,
+    "ChanceB": 22,
+    "ChanceC": 35,
+    "ChanceD": 40,
+    "Price": 2
+  },
+  {
+    "BoxId": 2,
+    "Name": "点将台",
+    "ChanceS": 2,
+    "ChanceA": 8,
+    "ChanceB": 35,
+    "ChanceC": 55,
+    "ChanceD": 0,
+    "Price": 10
+  }
+]

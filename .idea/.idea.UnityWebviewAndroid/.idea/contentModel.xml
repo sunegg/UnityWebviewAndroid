@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Game" t="Include">
+          <e p="Resources" t="Include">
+            <e p="Guess.txt" t="Include" />
+            <e p="GuessBackup.txt" t="Include" />
+            <e p="Question.txt" t="Include" />
+            <e p="QuestionBackup.txt" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DontDestroy.cs" t="Include" />
+            <e p="GameData.cs" t="Include" />
+            <e p="GameListView.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="GameType.cs" t="Include" />
+            <e p="LevelController.cs" t="Include" />
+            <e p="QuestListView.cs" t="Include" />
+            <e p="QuestManager.cs" t="Include" />
+            <e p="QuestModel.cs" t="Include" />
+            <e p="TransformExtension.cs" t="Include" />
+            <e p="UIGuessBtn.cs" t="Include" />
+            <e p="UILevel.cs" t="Include" />
+            <e p="UILoadScene.cs" t="Include" />
+            <e p="UIQuestBtn.cs" t="Include" />
+            <e p="UISelectMode.cs" t="Include" />
+            <e p="UIShowRecord.cs" t="Include" />
+            <e p="UIShowText.cs" t="Include" />
+            <e p="USingleton.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Android" t="Include">
+            <e p="AndroidManifest.xml" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="UnityWebViewPostprocessBuild.cs" t="Include" />
+          </e>
+          <e p="WebViewObject.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Guess.txt" t="Include" />
+          <e p="GuessBackup.txt" t="Include" />
+          <e p="Question.txt" t="Include" />
+          <e p="QuestionBackup.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AndroidUtil.cs" t="Include" />
+          <e p="BDController.cs" t="Include" />
+          <e p="WebView.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="UnityWebviewAndroid.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_UnityWebviewAndroid.1838389511.00" t="ExcludeRecursive" />
+  </component>
+</project>
